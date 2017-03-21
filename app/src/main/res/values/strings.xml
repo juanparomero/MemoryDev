@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">MemoryDev</string>
+    <string name="nomTiempo">Tiempo</string>
+    <string name="nomJugar">Jugar</string>
+    <string name="contador">00</string>
+    <string name="salir">Salir</string>
+    <string name="img1">img1</string>
+    <string name="img2">img2</string>
+    <string name="img3">img3</string>
+    <string name="img4">img4</string>
+    <string name="img5">img5</string>
+    <string name="img6">img6</string>
+    <string name="img7">img7</string>
+    <string name="img8">img8</string>
+    <string name="img9">img9</string>
+    <string name="img10">img10</string>
+    <string name="img11">img11</string>
+    <string name="img12">img12</string>
+</resources>
