@@ -8,10 +8,12 @@ import android.view.View;
 import android.widget.Button;
 import android.widget.ImageView;
 import android.widget.TextView;
-import java.lang.reflect.Field;
-import java.lang.reflect.Modifier;
-import java.lang.reflect.Type;
 
+/**
+ * @author J. P. Romero
+ * @version 1.0
+ *
+ */
 public class MainActivity extends AppCompatActivity implements View.OnClickListener{
     ImageView img1, img2, img3, img4, img5, img6, img7, img8, img9, img10, img11, img12, imgCapturada;
     Button jugar, salir;
@@ -23,7 +25,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-        
+
         img1 = (ImageView)findViewById(R.id.imageView1);
         img2 = (ImageView)findViewById(R.id.imageView2);
         img3 = (ImageView)findViewById(R.id.imageView3);
